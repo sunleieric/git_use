@@ -1,5 +1,5 @@
 # git_use
-record git use
+  record git use
 
 ## terminal_use
 echo "# C" >> README.md \
