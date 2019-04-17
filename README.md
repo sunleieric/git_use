@@ -10,4 +10,4 @@ git remote add origin git@github.com:sunleieric/C.git \
 git push -u origin master 
 ## Synchronous local warehouse
 git remote add origin git@github.com:sunleieric/C.git \
-git push -u origin master \
+git push -u origin master 
